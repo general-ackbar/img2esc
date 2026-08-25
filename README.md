@@ -40,3 +40,6 @@ Converts the image `donkey.png` to black/white. Send it to the printer named "Ep
 ```
 img2esc -i donkey.png -m 8 -p "Epson-Thermal"
 ```
+
+## A note on AI. 
+This program is created without the use of AI, however the README.md is written by AI
